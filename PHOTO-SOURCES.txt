@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-060-osuna Jim Osuna Painting (Wave 13 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 13 files: see builds/_assets_dl/wave13/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave13/paint-roller-back.jpg : Painter rolling a wall mid-repaint, seen from behind; no face (rawpixel CC0 1.0 https://www.rawpixel.com/image/6027879/photo-image-public-domain-house-person)
+services-trade.jpg <- wave13/paint-tools-laid.jpg : Rollers, a brush, and masking tape laid out on plastic sheeting (rawpixel CC0 1.0 https://www.rawpixel.com/image/6019459/photo-image-tape-public-domain-house)
+people-crew.jpg <- wave13/paint-tape-baseboard.jpg : Masking tape along a baseboard, with worn paint on the trim (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=18320247)
+people-marek.jpg <- wave13/paint-brush-wall.jpg : Paintbrush against a freshly painted wall (flickr CC0 1.0 https://www.flickr.com/photos/137643065@N06/23698214684)
+people-tom.jpg <- wave13/paint-color-fan.jpg : Fan of paint color samples (rawpixel CC0 1.0 https://www.rawpixel.com/image/5924630/photo-image-paper-public-domain-free)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+paint-side-worn.jpg <- wave13/paint-side-worn.jpg : Side wall of a two-story house with peeling, faded paint (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Historic_housing_exterior_comparisons-_old_paint_detailed_side_view_(50014287036).jpg)
+paint-side-fresh.jpg <- wave13/paint-side-fresh.jpg : The same side wall after a repaint, clean even finish (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Historic_housing_exterior_comparisons-_fresh_paint_detailed_side_view_(50014554012).jpg)
+paint-ceiling-patched.jpg <- wave13/paint-ceiling-patched.jpg : Ceiling with patched and taped repair spots, ready for sanding and paint (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Kitchen_renovation_spackling_to_cover_holes_and_tape_between_sheetrock_boards.JPG)
+paint-room-fresh.jpg <- wave13/paint-room-fresh.jpg : Freshly painted empty room with a paint can on the floor (flickr CC0 1.0 https://www.flickr.com/photos/71401718@N00/5490149530)
+paint-room-prep.jpg <- wave13/paint-room-prep.jpg : Room walls patched and sanded before painting, worker seen from behind; no face (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/51986662@N05/49525529776)
+paint-room-finished.jpg <- wave13/paint-room-finished.jpg : Finished room with freshly painted walls and trim (rawpixel CC0 1.0 https://www.rawpixel.com/image/8732262/photo-image-public-domain-wood-house)
+
+Note: New trade (painting): wave13 set (Yellowstone NPS before/after repaint pairs, Tomwsulcer drywall patch photo). Hero is a painter seen from behind. Packet flag: no personal name is used anywhere on the page, only the business wordmark and 'the owner'. The no-DNS osuna domains and the unrelated WA painting businesses are NOT used or linked.
